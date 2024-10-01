@@ -1,63 +1,49 @@
-# 👋 Hi, I'm Aman Sharma!
+<h2 align="left">Hi 👋! My name is Aman Sharma and I'm a Data Analyst </h2>
 
-### 💻 Data Analyst | SQL | Python | AWS | Power BI | Tableau | Excel
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Welcome to my GitHub profile! I’m a data analyst passionate about leveraging data to drive business decisions. With a strong background in SQL, Python, AWS, Power BI, Tableau, and Excel, I specialize in building insightful dashboards and creating meaningful data stories.
+###
 
-![Data Analysis Image](https://sl.bing.net/dQqROgVjose) <!-- Add your own image link -->
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-## 🛠 Skills & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### 📊 Data Analysis & Visualization
-- **SQL** – Querying, optimizing, and managing databases.
-- **Power BI** – Building real-time dashboards, utilizing the Analyze feature, and providing quick insights with the Q&A tool.
-- **Tableau** – Creating interactive visualizations and dashboards.
-- **Excel** – Data analysis, advanced formulas, and pivot tables.
+###
 
-### 🧑‍💻 Programming
-- **Python** – Data manipulation with Pandas, NumPy, and data visualization with Matplotlib/Seaborn.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### ☁️ Cloud & Other Tools
-- **AWS** – Data services and cloud computing.
-- **Git** – Version control and collaboration.
+###
 
----
+<br clear="both">
 
-## 📊 Featured Projects
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-### 🚀 [Project 1: Goods Company Sales Insights]
-**Tools:** Power BI, SQL  
-A dashboard showcasing real-time customer service data, helping businesses monitor KPIs and optimize their performance.
-
-### 🌐 [Project 2: Hospitality Regional Sales Analysis
-**Tools:** Tableau, SQL, Excel  
-This project uses Tableau to provide interactive visualizations for tracking sales performance and identifying trends.
-
-### 🌐 [Project 3:Adventure works bike company
-**Tools:** Power BI, SQL, Excel  
-This project uses Tableau to provide interactive visualizations for tracking sales performance and identifying trends.
-
-### 🌐 [Project 4: Banking Domain Data Visualization
-**Tools:** Power BI, SQL, Excel  
-This project uses Tableau to provide interactive visualizations for tracking sales performance and identifying trends.
----
-
-## 🌱 Currently Learning
-- Advanced machine learning techniques in Python.
-- Deepening my knowledge of cloud data services in AWS.
-
----
-
-## 📫 How to Reach Me
-- Email: Aman132sharma@gmail.com
-- LinkedIn: [Aman Sharma](https://www.linkedin.com/in/aman-sharma-21bcs8120/)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
+###
