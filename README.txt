@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Aman Sharma!
 
 ### 💻 Data Analyst | SQL | Python | AWS | Power BI | Tableau | Excel
 
@@ -29,14 +29,21 @@ Welcome to my GitHub profile! I’m a data analyst passionate about leveraging d
 
 ## 📊 Featured Projects
 
-### 🚀 [Project 1: Real-Time Customer Dashboard](https://github.com/your-repo)
-**Tools:** Power BI, SQL, Python  
+### 🚀 [Project 1: Goods Company Sales Insights]
+**Tools:** Power BI, SQL  
 A dashboard showcasing real-time customer service data, helping businesses monitor KPIs and optimize their performance.
 
-### 🌐 [Project 2: Interactive Sales Dashboard](https://github.com/your-repo)
+### 🌐 [Project 2: Hospitality Regional Sales Analysis
 **Tools:** Tableau, SQL, Excel  
 This project uses Tableau to provide interactive visualizations for tracking sales performance and identifying trends.
 
+### 🌐 [Project 3:Adventure works bike company
+**Tools:** Power BI, SQL, Excel  
+This project uses Tableau to provide interactive visualizations for tracking sales performance and identifying trends.
+
+### 🌐 [Project 4: Banking Domain Data Visualization
+**Tools:** Power BI, SQL, Excel  
+This project uses Tableau to provide interactive visualizations for tracking sales performance and identifying trends.
 ---
 
 ## 🌱 Currently Learning
@@ -46,8 +53,8 @@ This project uses Tableau to provide interactive visualizations for tracking sal
 ---
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: Aman132sharma@gmail.com
+- LinkedIn: [Aman Sharma](https://www.linkedin.com/in/aman-sharma-21bcs8120/)
 
 ---
 
