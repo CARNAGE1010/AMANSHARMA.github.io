@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I’m a data analyst passionate about leveraging data to drive business decisions. With a strong background in SQL, Python, AWS, Power BI, Tableau, and Excel, I specialize in building insightful dashboards and creating meaningful data stories.
 
-![Data Analysis Image](https://your-image-link-here.com) <!-- Add your own image link -->
+![Data Analysis Image](https://sl.bing.net/dQqROgVjose) <!-- Add your own image link -->
 
 ---
 
