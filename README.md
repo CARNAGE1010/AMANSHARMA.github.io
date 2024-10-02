@@ -1,4 +1,4 @@
-![Banner](https://sl.bing.net/e7IBODSSBY4)
+![Banner](https://github.com/CARNAGE1010/AMANSHARMA.github.io/blob/main/AI_designing-with-data.gif)
 
 # 👋 Hi, I'm AMAN SHARMA    !
 
